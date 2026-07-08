@@ -16,6 +16,7 @@ The SOC team has received several log files that must be reviewed before the sen
 
 ## Tasks
 
+'''text
 ### Task 1
 Create the following directory structure:
 
@@ -23,6 +24,7 @@ SOC_Challenge_02
 ├── Logs
 ├── Evidence
 └── Report
+'''
 
 ### Task 2
 Create the following log files:
