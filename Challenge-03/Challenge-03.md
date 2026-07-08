@@ -17,14 +17,16 @@ The SOC team has received an alert indicating multiple failed login attempts on 
 ## Tasks
 
 ### Task 1
+
 Create the following directory structure:
 
+```text
 Incident_003
 ├── Logs
 ├── Evidence
 ├── Reports
 └── Backup
-
+```
 ### Task 2
 Create the authentication log file:
 
